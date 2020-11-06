@@ -35,3 +35,9 @@
   - 팔로우/팔로워 기능을 통해 관심 있는 사용자의 리뷰를 확인 가능
   - 메세지 기능을 통해 더 다양한 방식으로 여행지에 대하 정보 공유 가능
 
+
+5. 카박 영상
+(1) [campsite 화면]  https://youtu.be/ONwZyO1hBvc   
+(2) [comunity 화면]  https://youtu.be/MKK7J5n6rPw   
+(3) [message  화면]  https://youtu.be/zyb7k35iXAk   
+(4) [mypage   화면]  https://youtu.be/nUQZ9jkL4c8   
