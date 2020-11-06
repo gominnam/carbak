@@ -41,4 +41,10 @@
 (1) [campsite 화면]  https://youtu.be/ONwZyO1hBvc   
 (2) [comunity 화면]  https://youtu.be/MKK7J5n6rPw   
 (3) [message  화면]  https://youtu.be/zyb7k35iXAk   
-(4) [mypage   화면]  https://youtu.be/nUQZ9jkL4c8   
+(4) [mypage   화면]  https://youtu.be/nUQZ9jkL4c8
+
+
+6. 그 외
+
+[e-mail] kosok03@naver.com
+[백준] id : gomin
