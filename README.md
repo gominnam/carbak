@@ -47,4 +47,4 @@
 6. 그 외
 
 [e-mail] kosok03@naver.com
-[백준] id : gomin
+[백준] https://www.acmicpc.net/user/gomin
